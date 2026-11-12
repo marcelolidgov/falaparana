@@ -1,0 +1,80 @@
+{
+  "slug": "2026-11-12_sete-quedas",
+  "data_publicacao": "2026-11-12T11:30:00-03:00",
+  "editoria": "historia",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "compartilhamentos (memória afetiva: 'manda pra quem conheceu') e salvamentos",
+  "fontes": [
+    "https://www.viajeparana.com/index.php/en/Guaira",
+    "https://www2.camara.leg.br/legin/fed/decret/1960-1969/decreto-50665-30-maio-1961-390248-publicacaooriginal-1-pe.html",
+    "https://www2.camara.leg.br/legin/fed/decret/1980-1987/decreto-86071-4-junho-1981-435549-publicacaooriginal-1-pe.html",
+    "https://guinnessworldrecords.com/world-records/66593-greatest-waterfall-submerged",
+    "https://www.gazetadopovo.com.br/vida-e-cidadania/vinte-e-cinco-anos-sem-as-sete-quedas-aomnfefy9hldqcdzr2ob8dv7y/",
+    "https://www.bandab.com.br/noticias-parana/apos-40-anos-da-inundacao-das-sete-quedas-guaira-pr-tenta-resgatar-turismo/amp/",
+    "https://en.wikipedia.org/wiki/Gua%C3%ADra_Falls"
+  ],
+  "legenda": "A maior cachoeira do mundo em volume de água era paranaense. E sumiu em 14 dias. 🌊\n\nO Salto de Sete Quedas ficava em Guaíra, no oeste do Paraná, no rio Paraná. Em 1961 virou parque nacional. Em 1981 o parque foi extinto para dar lugar ao lago de Itaipu. As comportas fecharam em 13 de outubro de 1982 e, no dia 27, as quedas estavam debaixo d'água.\n\nArrasta pro lado e conhece a história completa 👉\n\nManda pra quem chegou a ver as Sete Quedas e salva pra mostrar pra quem nunca ouviu falar.\n\nE na sua família, alguém conheceu? Conta aqui nos comentários 👇",
+  "hashtags": [
+    "#setequedas",
+    "#guaira",
+    "#historiadoparana",
+    "#oestedoparana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "História",
+      "titulo": "A maior cachoeira do mundo *sumiu em 14 dias*",
+      "subtitulo": "A história das Sete Quedas, em Guaíra, no oeste do Paraná."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "Ficava em *Guaíra*",
+      "texto": "No rio Paraná, na divisa com o Paraguai, o rio se espremia num cânion estreito e despencava em sete grandes grupos de quedas."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "Água como *nenhuma outra*",
+      "texto": "Era tida como a maior cachoeira do mundo em volume de água. Nas cheias, passavam até 50 mil m³ por segundo. O ronco se ouvia a mais de 25 km."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Era *parque nacional*",
+      "texto": "Em 1961, um decreto criou o Parque Nacional de Sete Quedas. Em 1981, outro decreto extinguiu o parque para dar lugar ao lago da Usina de Itaipu."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "A *despedida*",
+      "texto": "Milhares de turistas correram pra ver as quedas uma última vez. Quando a água subiu, centenas de pessoas fizeram um quarup, ritual indígena de homenagem aos mortos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Só *14 dias*",
+      "texto": "As comportas de Itaipu fecharam em 13 de outubro de 1982. No dia 27, o lago estava formado e as Sete Quedas tinham sumido debaixo d'água."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Virou *poema*",
+      "texto": "Carlos Drummond de Andrade escreveu um adeus às quedas. O poema saiu em letras grandes, ocupando uma página inteira do Jornal do Brasil."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "E *hoje?*",
+      "texto": "Guaíra vive da pesca esportiva e do turismo no rio. De barco, ainda dá pra ver pedras que formavam as paredes da antiga cachoeira."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Você chegou a ver?",
+      "pergunta": "alguém da sua família conheceu as Sete Quedas?"
+    }
+  ]
+}
