@@ -1,0 +1,26 @@
+[Script Info]
+; Modelo de legenda FALA PARANÁ — 1080x1920
+; Regra: Inter branca (SemiBold); palavra-chave em negrito; frase de impacto em Archivo Black AMARELO #F2B705.
+; Tags rápidas:
+;   {\b1}palavra{\b0}                                   -> negrito
+;   {\fnArchivo Black\fs50\c&H05B7F2&}trecho{\r}        -> destaque amarelo
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Legenda,Inter,50,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,1,0,0,0,100,100,0,0,1,0,2,2,90,90,330,1
+Style: Destaque,Archivo Black,52,&H0005B7F2,&H0005B7F2,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,2,2,90,90,330,1
+Style: Impacto,Archivo Black,118,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,4,5,80,80,0,1
+Style: ImpactoAmarelo,Archivo Black,138,&H0005B7F2,&H0005B7F2,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,4,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.20,ImpactoAmarelo,,0,0,0,,{\pos(540,620)\fad(80,0)\t(0,160,\fscx112\fscy112)\t(160,280,\fscx100\fscy100)}1853
+Dialogue: 0,0:00:00.00,0:00:02.20,Impacto,,0,0,0,,{\pos(540,760)\fs64\fad(80,0)}O PARANÁ NASCEU
+Dialogue: 0,0:00:00.00,0:00:02.20,Legenda,,0,0,0,,{\fad(60,0)}Exemplo de legenda no padrão
+Dialogue: 0,0:00:02.20,0:00:04.60,Legenda,,0,0,0,,{\fad(60,0)}com {\b1}palavra-chave{\b0} e {\fnArchivo Black\fs50\c&H05B7F2&}destaque amarelo{\r}

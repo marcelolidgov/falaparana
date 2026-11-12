@@ -1,0 +1,6 @@
+output/
+node_modules/
+.env
+*.wav
+__pycache__/
+video/overlay_rodape_1080x1920.png

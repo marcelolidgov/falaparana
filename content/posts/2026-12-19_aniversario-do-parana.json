@@ -1,0 +1,59 @@
+{
+  "slug": "2026-12-19_aniversario-do-parana",
+  "data_publicacao": "2026-12-19T11:00:00-03:00",
+  "editoria": "historia",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "salvamentos e compartilhamentos (data comemorativa, conteúdo de referência)",
+  "fontes": [
+    "https://www.parana.pr.gov.br/aen/Noticia/Estado-do-Parana-completa-nesta-quinta-feira-171-anos-de-emancipacao-politica",
+    "https://www.trt9.jus.br/portal/noticias.xhtml?id=8618393",
+    "https://www.nationalgeographicbrasil.com/cultura/2018/09/religiosidade-geografia-estados-brasileiros-sul-sudeste-brasil-rio-de-janeiro-sao-paulo-espirito-santo-belo-horizonte-minas-gerais-parana-santa-catarina",
+    "https://periodicos.pucpr.br/dialogoeducacional/article/download/28888/25588/65100"
+  ],
+  "legenda": "Hoje o Paraná faz 173 anos 🎉🌲\n\nAté 1853, o nosso estado era só a 5ª Comarca de São Paulo. Em 29 de agosto daquele ano, Dom Pedro II sancionou a lei que criou a Província do Paraná. Mas a festa é em 19 de dezembro: foi o dia em que o primeiro presidente, Zacarias de Góis e Vasconcelos, tomou posse em Curitiba e o Paraná passou a existir de verdade.\n\nArrasta pro lado e descobre a história completa 👉\n\nSalva pra mostrar pros filhos e manda pra aquele amigo que acha que o Paraná é \"só frio e pinhão\" 😄\n\nE você, é de qual canto do Paraná? Conta aqui nos comentários 👇",
+  "hashtags": ["#parana", "#historiadoparana", "#emancipacaodoparana", "#curitiba", "#falaparana"],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "História",
+      "titulo": "Por que o Paraná faz aniversário em *19 de dezembro?*",
+      "subtitulo": "173 anos de uma história que começou como pedaço de São Paulo."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "O Paraná já foi *São Paulo*",
+      "texto": "Até 1853, o território era a 5ª Comarca da Província de São Paulo, com sede em Curitiba. A luta por autonomia vinha de décadas."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "A caneta do *Imperador*",
+      "texto": "Em 29 de agosto de 1853, Dom Pedro II sancionou a Lei Imperial nº 704, que criou a Província do Paraná."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Mas a festa é em *19 de dezembro*",
+      "texto": "Foi quando Zacarias de Góis e Vasconcelos, baiano de Valença, tomou posse em Curitiba como primeiro presidente. Ali a província foi instalada de fato."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "E o nome *Paraná?*",
+      "texto": "Vem do tupi e costuma ser traduzido como \"semelhante ao mar\", uma referência ao rio Paraná. Somos o único estado do Sul e do Sudeste com nome indígena."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "A data virou *nome de jornal*",
+      "texto": "Em 1º de abril de 1854 saiu o primeiro jornal da província, batizado de \"Dezenove de Dezembro\". Hoje a data também dá nome a uma praça no centro de Curitiba."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Parabéns, Paraná!",
+      "pergunta": "de qual cidade você é?"
+    }
+  ]
+}
