@@ -67,4 +67,9 @@ Status possíveis: `rascunho` → `pronto` (história/cultura) ou `revisao` (res
 6. Commit e push com mensagem clara (`conteudo: <slug>`).
 7. Terminar com um resumo curto: o que saiu, o que aguarda aprovação (com link da prévia), próximos passos.
 
+## Aprovação do Marcelão
+Quando ele responder "aprovado" / "ok" / "pode postar" (em qualquer sessão, citando a pauta ou respondendo à prévia),
+mude o `status` daquela pauta para `aprovado`, faça commit (`aprovacao: <slug>`) e publique. Pedido de ajuste → refaça e reenvie a prévia.
+Antes de tudo, `tools/diagnostico.sh` mostra o que falta para publicar.
+
 Se algo bloquear (token, rede, mídia), não improvise rota alternativa: registre o bloqueio e avise o Marcelão.
