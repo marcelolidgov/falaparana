@@ -27,7 +27,7 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 - [ ] Pinhão: curiosidades e receitas por região
 
 ## Negócios — aprovação
-- [ ] Cooperativas: por que o Paraná é líder (dados OCEPAR/IBGE)
+- [x] Cooperativas: por que o Paraná é líder → `2026-11-13_cooperativas-do-parana.json` (status revisao, aguardando o Marcelão)
 - [ ] O Paraná no agro: o que o estado mais produz (IBGE/IPARDES)
 
 ## Notícia / política — aprovação

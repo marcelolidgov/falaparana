@@ -1,0 +1,80 @@
+{
+  "slug": "2026-11-13_cooperativas-do-parana",
+  "data_publicacao": "2026-11-13T18:30:00-03:00",
+  "editoria": "negocios",
+  "formato": "carrossel",
+  "status": "revisao",
+  "objetivo": "salvamentos (números do cooperativismo) e compartilhamentos ('manda pra quem é cooperado')",
+  "fontes": [
+    "https://paranacooperativo.coop.br/noticias-governanca/lancado-o-planejamento-estrategico-de-2026-do-sistema-ocepar",
+    "https://www.parana.pr.gov.br/aen/Noticia/Darci-Piana-destaca-forca-do-cooperativismo-paranaense-em-encontro-com-setor",
+    "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "https://www.tribunapr.com.br/noticias/parana/cooperativas-paranaenses-ganham-espaco-entre-as-maiores-empresas-do-brasil/",
+    "https://www.opresente.com.br/colunas/coluna-adi-pr/setor-cooperativista-movimentou-r-223-bilhoes-em-2025-com-r-103-bilhoes-de-resultado/",
+    "https://www.canalrural.com.br/agricultura/cooperativas-de-r-100-bilhoes-veja-quais-sao-e-onde-estao/",
+    "https://comprerural.com/veja-quais-sao-e-onde-estao-as-cooperativas-de-r-100-bilhoes/"
+  ],
+  "legenda": "R$ 221 bilhões. Foi quanto as cooperativas do Paraná faturaram em 2025. 🌾\n\nSão 255 cooperativas, cerca de 4,5 milhões de cooperados e 154 mil empregos, segundo o Sistema Ocepar. E boa parte desse dinheiro nasce longe da capital: em Campo Mourão, Palotina, Medianeira, Maringá, Londrina.\n\nArrasta pro lado e entende por que o Paraná virou o estado das cooperativas 👉\n\nSalva pra ter os números à mão e manda pra quem é cooperado.\n\nQual cooperativa faz parte da história da sua cidade? Conta aqui 👇",
+  "hashtags": [
+    "#cooperativismo",
+    "#cooperativasdoparana",
+    "#agroparanaense",
+    "#negociosdoparana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Negócios",
+      "titulo": "O estado das cooperativas: *R$ 221 bilhões* em 2025",
+      "subtitulo": "Por que o modelo cooperativo deu tão certo no Paraná."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "O que é *cooperativa*",
+      "texto": "É uma empresa dos próprios associados. Cada cooperado tem um voto, não importa quanto investiu. E o que sobra no fim do ano volta pra quem trabalhou com ela."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "*255* cooperativas",
+      "texto": "Em 2025, o Paraná tinha 255 cooperativas, cerca de 4,5 milhões de cooperados e 154 mil empregos, segundo o Sistema Ocepar."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "*R$ 221 bilhões*",
+      "texto": "Foi o faturamento somado das cooperativas paranaenses em 2025. Um ano antes, em 2024, tinham sido R$ 205,6 bilhões."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "Gigantes do *interior*",
+      "texto": "Coamo (Campo Mourão), C.Vale (Palotina), Lar (Medianeira), Cocamar (Maringá), Integrada (Londrina). O Paraná tem 5 das 10 maiores cooperativas do agro do país, segundo o governo do estado."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Da roça pra *indústria*",
+      "texto": "Segundo o governo, cerca de 70% da produção agrícola do estado passa por cooperativas. Em Ponta Grossa, seis delas se uniram numa maltaria de R$ 1,6 bilhão."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Rumo ao *mundo*",
+      "texto": "Em 2024, as cooperativas paranaenses exportaram US$ 7,9 bilhões, segundo dados do Sistema Ocepar. O que nasce no interior vai parar em outros países."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "Não é só *agro*",
+      "texto": "O cooperativismo também chega ao dinheiro do dia a dia. Só as cooperativas de crédito eram 54 no estado em 2024, com 3,7 milhões de associados."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "E na sua cidade?",
+      "pergunta": "qual cooperativa faz parte da história da sua cidade?"
+    }
+  ]
+}

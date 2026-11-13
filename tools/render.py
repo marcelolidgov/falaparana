@@ -68,8 +68,9 @@ def tokens(texto):
     """'abc *def ghi*' -> [('abc',False),('def',True),('ghi',True)]"""
     out, dest = [], False
     for w in texto.split():
-        ini = w.startswith("*"); fim = w.endswith("*") and len(w) > 1
-        w2 = w.strip("*")
+        ini = w.startswith("*"); core = w.rstrip(".,:;!?…")
+        fim = core.endswith("*") and len(core) > 1
+        w2 = w.replace("*", "")
         if ini: dest = True
         out.append((w2, dest))
         if fim or (ini and w.count("*") == 2): dest = False
@@ -96,7 +97,8 @@ def bloco(d, texto, fonte_fn, x, y_topo, maxw, max_h, cor, cor_dest=AMARELO,
         f = fonte_fn(tam); tr = track_em * tam
         linhas = wrap_tokens(toks, f, maxw, tr)
         lh = tam * entrelinha
-        if (max_linhas is None or len(linhas) <= max_linhas) and len(linhas) * lh <= max_h:
+        larga = max(tw(f, " ".join(x for x, _ in ln), tr) for ln in linhas) if linhas else 0
+        if (max_linhas is None or len(linhas) <= max_linhas) and len(linhas) * lh <= max_h and larga <= maxw:
             break
     cap = tam * 0.72
     y = y_topo + cap
