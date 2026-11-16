@@ -1,0 +1,71 @@
+{
+  "slug": "2026-11-16_exportacoes-do-parana",
+  "data_publicacao": "2026-11-16T18:30:00-03:00",
+  "editoria": "noticia",
+  "formato": "carrossel",
+  "status": "revisao",
+  "objetivo": "salvamentos (números das exportações) e compartilhamentos ('manda pra quem trabalha no agro')",
+  "fontes": [
+    "https://www.parana.pr.gov.br/aen/Noticia/Aumento-de-68-Parana-exporta-US-2115-bilhoes-de-janeiro-outubro-de-2026",
+    "https://www.band.com.br/agro/exportacoes-do-parana-crescem-68-e-somam-us-2115-bilhoes",
+    "Dados primários: MDIC (Comex Stat), tabulados pelo Ipardes — conforme a AEN, 10/11/2026"
+  ],
+  "legenda": "US$ 21,15 bilhões. Foi quanto o Paraná exportou de janeiro a outubro de 2026, alta de 6,8% sobre o mesmo período de 2025. 🌎\n\nA soja segue na frente, mas quem chamou atenção foi o frango (+25,4%) e o óleo de soja bruto, que dobrou. A China é o maior comprador, e a Índia já é o quarto destino das exportações paranaenses.\n\nArrasta pro lado e entende o que o Paraná vende pro mundo 👉\n\nSalva pra ter os números à mão e manda pra quem trabalha no agro ou no comércio exterior.\n\nO que a sua região manda pro mundo? Conta aqui 👇\n\nFonte: MDIC/Ipardes, via Agência Estadual de Notícias (10/11/2026).",
+  "hashtags": [
+    "#exportacoes",
+    "#economiadoparana",
+    "#agroparanaense",
+    "#parana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "fundo": "#14201C",
+      "etiqueta": "Notícia da semana",
+      "titulo": "O Paraná já exportou *US$ 21 bi* em 2026",
+      "subtitulo": "De janeiro a outubro. E o ano nem acabou."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "*US$ 21,15 bilhões*",
+      "texto": "Foi quanto o Paraná exportou de janeiro a outubro de 2026. São 6,8% a mais que no mesmo período de 2025, segundo dados do MDIC tabulados pelo Ipardes."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "A soja na *frente*",
+      "texto": "A soja em grão segue no topo: US$ 4,43 bilhões, alta de 9,7%. O farelo de soja somou mais US$ 1,26 bilhão."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "O frango *voou*",
+      "texto": "A carne de frango saltou de US$ 2,92 bilhões para US$ 3,66 bilhões, alta de 25,4%. Já é o segundo produto que o Paraná mais vende lá fora."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "Óleo de soja *dobrou*",
+      "texto": "O óleo de soja bruto saiu de US$ 431 milhões para US$ 864 milhões. Alta de 100,4% em relação a 2025."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Pra onde *vai*",
+      "texto": "A China lidera, com US$ 4,78 bilhões (22,6% do total). Depois vêm Argentina e Estados Unidos. As vendas pra Índia subiram 73%, e ela já é a quarta compradora."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Saldo *positivo*",
+      "texto": "O estado importou US$ 19,5 bilhões no período. Resultado: US$ 1,65 bilhão a mais vendido do que comprado."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "E na sua região?",
+      "pergunta": "o que a sua região manda pro mundo?"
+    }
+  ]
+}

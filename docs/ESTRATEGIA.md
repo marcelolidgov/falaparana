@@ -3,7 +3,7 @@
 > Documento vivo. O agente atualiza a seção **Aprendizados** toda segunda-feira com base em `docs/relatorios/`.
 
 ## Aprendizados (mais recentes primeiro)
-- _(vazio — primeiro relatório após 2 semanas de posts)_
+- _16/11/2026: sem dados — `insights.mjs` não roda sem IG_ACCESS_TOKEN e com graph.facebook.com bloqueado; nenhum post foi publicado ainda (Sete Quedas está pronto desde 12/11). Primeiro relatório assim que a publicação for liberada._
 
 ## 1. Posicionamento
 **"A voz do Paraná inteiro."** Notícia, história, cultura, cidades e negócios do estado, do litoral ao Noroeste, com Marcelão.

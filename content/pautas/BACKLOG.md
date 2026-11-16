@@ -31,4 +31,6 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 - [ ] O Paraná no agro: o que o estado mais produz (IBGE/IPARDES)
 
 ## Notícia / política — aprovação
+- [x] Notícia da semana (16/11): exportações de jan–out/2026 → `2026-11-16_exportacoes-do-parana.json` (status revisao, aguardando o Marcelão)
 - [ ] Resumo semanal: 3 notícias que importam pro Paraná (fontes: AEN, ALEP, TCE-PR)
+- [ ] Ideias apuradas na AEN (09–13/11, conferir números na página antes de usar): PIB do PR 2024 (4ª economia); Portos do Paraná recorde em outubro; Sanepar 82 mil famílias com esgoto em 2026; El Niño e chuva acima da média até março (Simepar)
