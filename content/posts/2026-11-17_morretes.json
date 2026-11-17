@@ -1,0 +1,79 @@
+{
+  "slug": "2026-11-17_morretes",
+  "data_publicacao": "2026-11-17T11:30:00-03:00",
+  "editoria": "cultura",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "compartilhamentos ('manda pra quem ama Morretes') e salvamentos (roteiro); série Cidade da Semana",
+  "fontes": [
+    "https://biblioteca.ibge.gov.br/visualizacao/dtb/parana/morretes.pdf",
+    "https://www.gov.br/inpi/pt-br/servicos/indicacoes-geograficas/arquivos/fichas-tecnicas-de-indicacoes-geograficas/LitoraldoParan.pdf",
+    "https://www.parana.pr.gov.br/aen/Noticia/Barreado-e-o-12o-produto-paranaense-e-o-100o-do-Brasil-receber-Indicacao-Geografica",
+    "https://www.viajeparana.com/print/pdf/node/5272",
+    "https://www.viajeparana.com/print/pdf/node/14275",
+    "https://www.viajeparana.com/print/pdf/node/14748"
+  ],
+  "legenda": "Morretes já teve outro nome. E ele ainda corre pelo meio da cidade. 🌿\n\nCidade da Semana: Morretes, no litoral do Paraná, ao pé da Serra do Mar. Começou com mineradores atrás de ouro em 1646, virou vila em 1841 com o nome de Nhundiaquara (o rio da cidade) e só em 1870 passou a se chamar Morretes, por causa dos morrinhos que a cercam.\n\nÉ a casa do barreado: carne cozida no mínimo 8 horas em panela lacrada com goma de farinha de mandioca. Desde 2022 o Barreado do Litoral do Paraná tem Indicação Geográfica do INPI, junto com Antonina e Paranaguá.\n\nArrasta pro lado 👉 e salva pro próximo passeio de trem pela Serra do Mar.\n\nManda pra quem é de Morretes ou pra quem te deve um barreado.\n\nE você, qual cidade quer ver na próxima Cidade da Semana? Conta aqui 👇",
+  "hashtags": [
+    "#morretes",
+    "#barreado",
+    "#litoraldoparana",
+    "#cidadedasemana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Cidade da Semana",
+      "titulo": "Morretes já se chamou *Nhundiaquara*",
+      "subtitulo": "Ouro, barreado e Serra do Mar: a cidade do litoral em 7 fatos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "Primeiro veio o *ouro*",
+      "texto": "Os primeiros moradores chegaram em 1646: aventureiros e mineradores vindos de vilas paulistas, atrás das jazidas de ouro da região."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "O nome do *rio*",
+      "texto": "Virou freguesia em 1811 e vila em 1841, separada de Antonina, com o nome de Nhundiaquara, o rio que corta a cidade. Só em 1870 passou a se chamar Morretes."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Por que *Morretes?*",
+      "texto": "Porque a cidade é cercada de morros baixinhos, que o povo chamava de morretes. O apelido virou nome oficial."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "A casa do *barreado*",
+      "texto": "Carne bovina cozida por no mínimo 8 horas numa panela lacrada com goma de farinha de mandioca. Vai pra mesa com farinha e banana."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Tem *selo de origem*",
+      "texto": "Desde dezembro de 2022, o Barreado do Litoral tem Indicação Geográfica do INPI, para Morretes, Antonina e Paranaguá. Foi a 100ª do Brasil."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Terra da *cachaça*",
+      "texto": "Além do barreado, Morretes é conhecida pela cachaça artesanal, que também entrou na lista de Indicações Geográficas do Paraná."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "Ao pé da *serra*",
+      "texto": "A uns 70 km de Curitiba. Dá pra chegar no passeio de trem que desce a serra e andar pelo centro histórico, na beira do Nhundiaquara."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Já comeu barreado lá?",
+      "pergunta": "qual cidade vem na próxima Cidade da Semana?"
+    }
+  ]
+}

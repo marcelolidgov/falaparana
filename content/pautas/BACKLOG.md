@@ -18,7 +18,8 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 - [x] Sete Quedas: a maravilha que sumiu com Itaipu → `2026-11-12_sete-quedas.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 
 ## Cidade da Semana — automática (cultura)
-- [ ] Morretes · [ ] Prudentópolis · [ ] Castro · [ ] Lapa · [ ] Foz do Iguaçu · [ ] Maringá · [ ] Londrina
+- [x] Morretes → `2026-11-17_morretes.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
+- [ ] [ ] Prudentópolis · [ ] Castro · [ ] Lapa · [ ] Foz do Iguaçu · [ ] Maringá · [ ] Londrina
 - [ ] Guarapuava · [ ] Ponta Grossa · [ ] Cascavel · [ ] União da Vitória · [ ] Antonina · [ ] Tibagi
 
 ## Cultura / natureza — automática
