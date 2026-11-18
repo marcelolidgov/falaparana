@@ -17,6 +17,9 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 - [ ] Por que a araucária é o símbolo do Paraná (e por que ela está ameaçada)
 - [x] Sete Quedas: a maravilha que sumiu com Itaipu → `2026-11-12_sete-quedas.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 
+## Reels de quarta (derivados de carrossel)
+- [x] 18/11 — Reel Sete Quedas (41,8 s, sem trilha) → `2026-11-18_sete-quedas-reel.json` (pronto; publicação bloqueada: sem token/rede/repo de mídia)
+
 ## Cidade da Semana — automática (cultura)
 - [x] Morretes → `2026-11-17_morretes.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 - [ ] Prudentópolis · [ ] Castro · [ ] Lapa · [ ] Foz do Iguaçu · [ ] Maringá · [ ] Londrina
