@@ -12,7 +12,7 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 - [ ] Erva-mate: a planta que pagou a emancipação do Paraná
 - [ ] Paranaguá, a cidade mais antiga do estado (fundada em 1648)
 - [ ] A Guerra do Contestado e a fronteira com Santa Catarina
-- [ ] A Ferrovia Paranaguá–Curitiba: como uma obra do século XIX subiu a Serra do Mar
+- [x] A Ferrovia Paranaguá–Curitiba: como uma obra do século XIX subiu a Serra do Mar → `2026-11-19_ferrovia-paranagua-curitiba.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 - [ ] Os imigrantes que formaram o Paraná: poloneses, ucranianos, italianos, alemães, japoneses
 - [ ] Por que a araucária é o símbolo do Paraná (e por que ela está ameaçada)
 - [x] Sete Quedas: a maravilha que sumiu com Itaipu → `2026-11-12_sete-quedas.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)

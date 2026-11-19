@@ -1,0 +1,78 @@
+{
+  "slug": "2026-11-19_ferrovia-paranagua-curitiba",
+  "data_publicacao": "2026-11-19T11:30:00-03:00",
+  "editoria": "historia",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "salvamentos (linha do tempo da ferrovia) e compartilhamentos ('manda pra quem nunca desceu a serra de trem'); série Você sabia?",
+  "fontes": [
+    "https://www.parana.pr.gov.br/Audio/Estrada-de-Ferro-Paranagua-Curitiba-celebra-140-anos-de-historia-desenvolvimento-e-turismo",
+    "https://www.viajeparana.com/print/pdf/node/14581",
+    "https://www.parana.pr.gov.br/aen/Noticia/Trem-turistico-da-Serra-do-Mar-celebra-5-milhoes-de-passageiros-nesta-sexta-feira",
+    "https://www.curitiba.pr.gov.br/noticias/trajeto-de-trem-curitiba-morretes-supera-passeios-ferroviarios-da-suica-italia-e-japao/75648",
+    "https://www.tribunapr.com.br/noticias/parana/ferrovia-para-paranagua-uma-historia-de-desafios/"
+  ],
+  "legenda": "Em 1885, um trem subiu a Serra do Mar. E até hoje ele é um dos passeios mais bonitos do mundo. 🚂\n\nVocê sabia? A Estrada de Ferro Paranaguá–Curitiba começou em 1880, com Dom Pedro II lançando a pedra fundamental, e foi inaugurada em 5 de fevereiro de 1885. O projeto é dos irmãos André e Antônio Rebouças, considerados os primeiros engenheiros negros do Brasil, e a obra foi feita sem mão de obra escravizada, oito anos antes da Abolição.\n\nSão cerca de 110 km de trilhos pela Mata Atlântica, com 13 túneis e 41 pontes, incluindo a Ponte São João, que veio desmontada da Bélgica, e o Viaduto do Carvalho.\n\nArrasta pro lado 👉 e salva pra próxima viagem de trem até Morretes.\n\nManda pra quem nunca desceu a serra de trem.\n\nE você, já fez esse passeio? Conta aqui de onde você é 👇",
+  "hashtags": [
+    "#historiadoparana",
+    "#serradomar",
+    "#tremcuritibamorretes",
+    "#curitiba",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Você sabia?",
+      "titulo": "O trem que *subiu a serra* em 1885",
+      "subtitulo": "13 túneis, 41 pontes e nenhum trabalho escravo: a ferrovia Paranaguá–Curitiba em 7 fatos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "Começou com o *Imperador*",
+      "texto": "Em 5 de junho de 1880, Dom Pedro II lançou a pedra fundamental. Cinco anos depois, em 5 de fevereiro de 1885, a ferrovia foi inaugurada."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "Os irmãos *Rebouças*",
+      "texto": "O projeto nasceu com André e Antônio Rebouças, considerados os primeiros engenheiros negros do Brasil. André propôs a linha em 1865 e Antônio entregou o projeto em 1873."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Sem mão de obra *escravizada*",
+      "texto": "A pedido dos Rebouças, o Imperador proibiu o trabalho escravo na obra. Isso no Brasil de 1880, oito anos antes da Abolição."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "*13 túneis* e 41 pontes",
+      "texto": "São cerca de 110 km de trilhos entre Paranaguá e Curitiba, cortando a Mata Atlântica. No ponto mais alto, o trem passa a 952 metros de altitude."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Uma ponte *da Bélgica*",
+      "texto": "A Ponte São João tem 113 metros e veio desmontada da Bélgica. Mais adiante, no Viaduto do Carvalho, o trem parece flutuar sobre o penhasco."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "*14º* do mundo",
+      "texto": "A Lonely Planet colocou o trem Curitiba–Morretes em 14º lugar entre as 24 viagens de trem mais incríveis do mundo, na frente de passeios da Suíça e do Japão."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "*5 milhões* de passageiros",
+      "texto": "O passeio turístico chegou à marca de 5 milhões de passageiros em maio de 2026. Hoje, mais de 250 mil pessoas fazem o trajeto todo ano."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Já desceu a serra de trem?",
+      "pergunta": "de qual cidade você é?"
+    }
+  ]
+}
