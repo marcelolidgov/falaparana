@@ -1,0 +1,78 @@
+{
+  "slug": "2026-11-20_enedina-alves-marques",
+  "data_publicacao": "2026-11-20T11:30:00-03:00",
+  "editoria": "historia",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "efeméride: 20/11, Dia da Consciência Negra. Compartilhamentos ('manda pra quem estuda engenharia') e salvamentos; série Você sabia?",
+  "fontes": [
+    "https://www.curitiba.pr.gov.br/noticias/engenheira-enedina-alves-marques-ganhara-monumento-na-rua-xv-de-novembro/65943",
+    "https://www.curitiba.pr.gov.br/noticias/greca-inaugura-escultura-em-homenagem-a-primeira-engenheira-negra-do-brasil-enedina-alves-marques-no-centro-de-curitiba/71959",
+    "https://www.confea.org.br/google-homenageia-primeira-engenheira-negra-do-brasil",
+    "https://cbic.org.br/saiba-como-enedina-alves-marques-revolucionou-a-engenharia-no-brasil/",
+    "https://www.brasildefato.com.br/2024/01/16/primeira-mulher-negra-engenheira-do-brasil-ganha-escultura-em-curitiba/"
+  ],
+  "legenda": "A primeira engenheira negra do Brasil nasceu em Curitiba. Você conhecia a Enedina? 👷🏾‍♀️\n\nNeste 20 de novembro, Dia da Consciência Negra, o Fala Paraná conta a história de Enedina Alves Marques (1913–1981). Em 1945, aos 32 anos, ela se formou em Engenharia Civil na Universidade do Paraná, hoje UFPR, e foi a primeira mulher engenheira do Paraná e da região Sul.\n\nTrabalhou no Plano Hidrelétrico do Paraná e atuou na construção da Usina Capivari-Cachoeira, em Antonina, a maior hidrelétrica subterrânea do Sul. Também participou de obras como o Colégio Estadual do Paraná e a Casa do Estudante Universitário de Curitiba.\n\nDesde 2024, uma escultura de bronze dela fica no calçadão da Rua XV, no Centro de Curitiba.\n\nArrasta pro lado 👉 e salva pra contar essa história adiante.\n\nManda pra quem estuda ou trabalha com engenharia.\n\nQual outra pioneira do Paraná merece um post? Conta aqui 👇",
+  "hashtags": [
+    "#historiadoparana",
+    "#consciencianegra",
+    "#enedinaalvesmarques",
+    "#curitiba",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Você sabia?",
+      "titulo": "A primeira engenheira negra do Brasil era *de Curitiba*",
+      "subtitulo": "Neste 20 de novembro, a história de Enedina Alves Marques em 7 fatos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "Curitibana de *1913*",
+      "texto": "Enedina Alves Marques nasceu em Curitiba, em 13 de janeiro de 1913. Era filha de Paulo Marques e Virgília Alves Marques."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "Ela e *32 homens*",
+      "texto": "Em 1945, aos 32 anos, se formou em Engenharia Civil na Universidade do Paraná, hoje UFPR. Foi destaque numa formatura ao lado de 32 homens."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Pioneira *duas vezes*",
+      "texto": "Foi a primeira mulher a se formar em engenharia no Paraná e em toda a região Sul. E entrou para a história como a primeira engenheira negra do Brasil."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "Engenheira *do estado*",
+      "texto": "Em 1946, entrou na Secretaria de Viação e Obras Públicas. No ano seguinte, passou a trabalhar no Plano Hidrelétrico do Paraná."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Usina *subterrânea*",
+      "texto": "Atuou no levantamento e na construção da Usina Capivari-Cachoeira, em Antonina, a maior hidrelétrica subterrânea do Sul. Hoje ela se chama Governador Parigot de Souza."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Marcas *em Curitiba*",
+      "texto": "Também participou de obras como o Colégio Estadual do Paraná e a Casa do Estudante Universitário de Curitiba."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "Virou *estátua*",
+      "texto": "Desde janeiro de 2024, uma escultura de Enedina sentada com um livro fica no calçadão da Rua XV. Em 2023, ela ganhou até um Doodle do Google."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Você conhecia a Enedina?",
+      "pergunta": "qual outra pioneira do Paraná merece post?"
+    }
+  ]
+}

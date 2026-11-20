@@ -5,6 +5,7 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 ## Datas próximas
 - [x] 19/12 — Por que o Paraná faz aniversário em 19 de dezembro? (173 anos) → `2026-12-19_aniversario-do-parana.json`
 - [ ] Dezembro — Natal nas cidades do Paraná: as decorações mais famosas (Curitiba e interior)
+- [x] 20/11 — Consciência Negra: Enedina Alves Marques, a primeira engenheira negra do Brasil era de Curitiba → `2026-11-20_enedina-alves-marques.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 - [ ] Aniversários de municípios do mês (levantar no site de cada prefeitura / IBGE Cidades)
 
 ## História ("Você sabia?") — automática
