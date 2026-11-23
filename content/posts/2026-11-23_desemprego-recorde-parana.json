@@ -1,0 +1,73 @@
+{
+  "slug": "2026-11-23_desemprego-recorde-parana",
+  "data_publicacao": "2026-11-23T18:30:00-03:00",
+  "editoria": "noticia",
+  "formato": "carrossel",
+  "status": "revisao",
+  "objetivo": "compartilhamentos ('manda pra quem tá procurando emprego') e salvamentos (explicação da taxa + ranking dos estados)",
+  "fontes": [
+    "AEN (Agência Estadual de Notícias), 18/11/2026: https://www.parana.pr.gov.br/aen/Noticia/Parana-alcanca-menor-taxa-de-desemprego-da-historia-no-3o-trimestre-de-2026 — 3%, queda de 0,1 p.p. sobre o trimestre anterior (3,1%), menor da série iniciada em 2012, dado do IBGE (Pnad Contínua Trimestral) divulgado em 18/11",
+    "Dado primário: IBGE, Pnad Contínua Trimestral, 3º tri/2026 (release de 18/11/2026): https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48657-pnad-continua-trimestral-desocupacao-cai-em-8-das-27-ufs-no-3-trimestre-de-2026 (página não abriu no ambiente do agente; números conferidos nas fontes abaixo)",
+    "Correio Braziliense, 18/11/2026: https://www.correiobraziliense.com.br/economia/2026/11/7540459-taxa-de-desocupacao-no-brasil-cai-para-52-no-3-trimestre.html — Brasil 5,2%; SC 2,2%, MS 2,3%, MT 2,6%, PR 3,0%, ES 3,0%",
+    "Melhor Investimento, 18/11/2026: https://melhorinvestimento.net/noticias/desemprego-por-estado-3-trimestre-2026 — mesmos números por estado e Brasil 5,2%",
+    "Tribuna PR, 18/11/2026: https://www.tribunapr.com.br/noticias/parana/parana-atinge-menor-taxa-de-desemprego-historia-e-chega-3-em-2026/ — PR 3%, 4ª menor taxa, empatado com ES"
+  ],
+  "legenda": "3%. É a menor taxa de desemprego que o Paraná já registrou desde que o IBGE começou a série, em 2012. 📉\n\nNo 3º trimestre de 2026 (julho a setembro), o desemprego no Paraná caiu de 3,1% para 3%, segundo a Pnad Contínua do IBGE. A média do Brasil ficou em 5,2%.\n\nNo ranking dos estados, o Paraná tem a 4ª menor taxa de desocupação do país, empatado com o Espírito Santo. Só Santa Catarina, Mato Grosso do Sul e Mato Grosso estão na frente.\n\nArrasta pro lado e entende o que esse número quer dizer 👉\n\nSalva pra ter o dado à mão e manda pra quem tá procurando trabalho.\n\nE na sua cidade, tá fácil ou difícil achar emprego? Conta aqui 👇\n\nFonte: IBGE, Pnad Contínua Trimestral (divulgada em 18/11/2026), via Agência Estadual de Notícias.",
+  "hashtags": [
+    "#emprego",
+    "#economiadoparana",
+    "#ibge",
+    "#parana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "fundo": "#14201C",
+      "etiqueta": "Notícia da semana",
+      "titulo": "Desemprego no Paraná cai a *3%*, o menor da história",
+      "subtitulo": "Dado do IBGE para o 3º trimestre de 2026."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "*3* em cada *100*",
+      "texto": "De julho a setembro de 2026, de cada 100 paranaenses na força de trabalho, só 3 procuravam emprego e não achavam."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "Recorde em cima de *recorde*",
+      "texto": "O trimestre anterior, com 3,1%, já era o melhor resultado. Agora caiu mais um pouco. A série do IBGE começou em 2012."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Brasil: *5,2%*",
+      "texto": "Essa foi a média nacional no mesmo período. O Paraná ficou mais de 2 pontos abaixo."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "4º lugar no *país*",
+      "texto": "Só Santa Catarina (2,2%), Mato Grosso do Sul (2,3%) e Mato Grosso (2,6%) têm taxa menor. O Espírito Santo empata com o Paraná, em 3%."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "O que a taxa *mede*",
+      "texto": "Conta quem tem idade pra trabalhar, quer um emprego e está procurando, mas não acha. Quem não está procurando não entra na conta."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "A *fonte*",
+      "texto": "Da Pnad Contínua, pesquisa do IBGE feita em domicílios de todo o país. O resultado do 3º trimestre saiu em 18 de novembro."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "E na sua cidade?",
+      "pergunta": "tá fácil ou difícil achar emprego aí?"
+    }
+  ]
+}

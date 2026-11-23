@@ -3,6 +3,7 @@
 > Documento vivo. O agente atualiza a seção **Aprendizados** toda segunda-feira com base em `docs/relatorios/`.
 
 ## Aprendizados (mais recentes primeiro)
+- _23/11/2026: ainda sem dados — `insights.mjs` segue bloqueado (sem IG_ACCESS_TOKEN, graph.facebook.com bloqueado, sem repo falaparana-midia). 6 posts de história/cultura prontos e 3 em revisão aguardam a liberação; nenhum publicado._
 - _16/11/2026: sem dados — `insights.mjs` não roda sem IG_ACCESS_TOKEN e com graph.facebook.com bloqueado; nenhum post foi publicado ainda (Sete Quedas está pronto desde 12/11). Primeiro relatório assim que a publicação for liberada._
 
 ## 1. Posicionamento
