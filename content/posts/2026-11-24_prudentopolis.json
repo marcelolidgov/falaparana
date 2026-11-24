@@ -1,0 +1,78 @@
+{
+  "slug": "2026-11-24_prudentopolis",
+  "data_publicacao": "2026-11-24T11:30:00-03:00",
+  "editoria": "cultura",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "compartilhamentos ('manda pra quem é de Prudentópolis') e salvamentos (roteiro de cachoeiras); série Cidade da Semana",
+  "fontes": [
+    "https://biblioteca.ibge.gov.br/visualizacao/dtb/parana/prudentopolis.pdf",
+    "https://www.viajeparana.com/print/pdf/node/5248",
+    "https://www.parana.pr.gov.br/aen/Noticia/Com-mais-conforto-e-seguranca-Salto-Sao-Francisco-voltara-receber-turistas",
+    "https://euromaidanpress.com/2021/10/08/ukrainian-language-became-official-in-brazilian-municipality-prudentopolis/",
+    "https://uatv.ua/en/ukrainian-language-became-official-in-one-of-the-cities-of-brazil/"
+  ],
+  "legenda": "Tem uma cidade no Paraná onde o ucraniano é língua oficial. 🌾\n\nCidade da Semana: Prudentópolis, na região central do estado, a 207 km de Curitiba. Começou como São João de Capanema, virou colônia federal em 1894 e ganhou o nome em homenagem ao presidente Prudente de Morais. Logo chegaram famílias polonesas e ucranianas, e a herança ficou: em 2021 a Câmara aprovou o ucraniano como língua co-oficial, ao lado do português.\n\nTem igreja bizantina tombada, Festa do Feijão Preto em agosto e o Salto São Francisco, com 196 metros, a maior cachoeira do Sul do Brasil.\n\nArrasta pro lado 👉 e salva pro roteiro de cachoeiras.\n\nManda pra quem é de Prudentópolis ou pra quem nunca viu uma cachoeira de 196 metros.\n\nE você, qual cidade quer ver na próxima Cidade da Semana? Conta aqui 👇",
+  "hashtags": [
+    "#prudentopolis",
+    "#cachoeirasdoparana",
+    "#culturaucraniana",
+    "#cidadedasemana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Cidade da Semana",
+      "titulo": "A cidade do Paraná que fala *ucraniano*",
+      "subtitulo": "Cachoeiras gigantes, igreja bizantina e feijão preto: Prudentópolis em 7 fatos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "Começou como *São João*",
+      "texto": "Em 1884, Firmo Mendes de Queiroz doou terras para a povoação. O nome era São João de Capanema, em homenagem ao Barão de Capanema."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "Nome de *presidente*",
+      "texto": "Em 1894 virou colônia do governo federal. O diretor, Cândido Ferreira de Abreu, deu o nome em homenagem ao presidente Prudente de Morais."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Chegam os *ucranianos*",
+      "texto": "Já em 1895 não paravam de chegar famílias polonesas e ucranianas. A herança é tão forte que a cidade ganhou o apelido de Pequena Ucrânia."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "Língua *oficial*",
+      "texto": "Em outubro de 2021, a Câmara aprovou por unanimidade o ucraniano como língua co-oficial do município, ao lado do português."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Igreja *bizantina*",
+      "texto": "A Igreja São Josafat foi erguida entre 1925 e 1928, em estilo bizantino, com cinco abóbadas. É tombada pelo patrimônio histórico do Paraná."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "*196 metros* de queda",
+      "texto": "O Salto São Francisco, na divisa com Guarapuava e Turvo, é a maior cachoeira do Sul do Brasil. Fica num parque estadual criado em 2010."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "Capital do *feijão preto*",
+      "texto": "Todo agosto tem a Festa do Feijão Preto, com feijoada feita na maior panela do mundo, registrada no Guinness. A cidade fica a 207 km de Curitiba."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Já viu o Salto São Francisco?",
+      "pergunta": "qual cidade vem na próxima Cidade da Semana?"
+    }
+  ]
+}

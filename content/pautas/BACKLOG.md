@@ -23,7 +23,8 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 
 ## Cidade da Semana — automática (cultura)
 - [x] Morretes → `2026-11-17_morretes.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
-- [ ] Prudentópolis · [ ] Castro · [ ] Lapa · [ ] Foz do Iguaçu · [ ] Maringá · [ ] Londrina
+- [x] Prudentópolis → `2026-11-24_prudentopolis.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
+- [ ] Castro · [ ] Lapa · [ ] Foz do Iguaçu · [ ] Maringá · [ ] Londrina
 - [ ] Guarapuava · [ ] Ponta Grossa · [ ] Cascavel · [ ] União da Vitória · [ ] Antonina · [ ] Tibagi
 
 ## Cultura / natureza — automática
