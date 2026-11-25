@@ -20,6 +20,7 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 
 ## Reels de quarta (derivados de carrossel)
 - [x] 18/11 — Reel Sete Quedas (41,8 s, sem trilha) → `2026-11-18_sete-quedas-reel.json` (pronto; publicação bloqueada: sem token/rede/repo de mídia)
+- [x] 25/11 — Reel Ferrovia Paranaguá–Curitiba (41,8 s, sem trilha) → `2026-11-25_ferrovia-paranagua-curitiba-reel.json` (pronto; publicação bloqueada: sem token/rede/repo de mídia)
 
 ## Cidade da Semana — automática (cultura)
 - [x] Morretes → `2026-11-17_morretes.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
