@@ -11,7 +11,7 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 ## História ("Você sabia?") — automática
 - [ ] O caminho das tropas: como o tropeirismo criou cidades nos Campos Gerais
 - [ ] Erva-mate: a planta que pagou a emancipação do Paraná
-- [ ] Paranaguá, a cidade mais antiga do estado (fundada em 1648)
+- [x] Paranaguá, a cidade mais antiga do estado (vila em 1648) → `2026-11-26_paranagua-cidade-mais-antiga.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 - [ ] A Guerra do Contestado e a fronteira com Santa Catarina
 - [x] A Ferrovia Paranaguá–Curitiba: como uma obra do século XIX subiu a Serra do Mar → `2026-11-19_ferrovia-paranagua-curitiba.json` (artes prontas; publicação bloqueada: sem token/rede/repo de mídia)
 - [ ] Os imigrantes que formaram o Paraná: poloneses, ucranianos, italianos, alemães, japoneses

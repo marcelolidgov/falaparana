@@ -1,0 +1,77 @@
+{
+  "slug": "2026-11-26_paranagua-cidade-mais-antiga",
+  "data_publicacao": "2026-11-26T11:30:00-03:00",
+  "editoria": "historia",
+  "formato": "carrossel",
+  "status": "pronto",
+  "objetivo": "salvamentos (linha do tempo de Paranaguá) e compartilhamentos ('manda pra quem é parnanguara'); série Você sabia?",
+  "fontes": [
+    "https://biblioteca.ibge.gov.br/visualizacao/dtb/parana/paranagua.pdf",
+    "https://www.parana.pr.gov.br/Audio/No-aniversario-de-375-anos-de-Paranagua-porto-comemora-88-anos-de-relacao-com-cidade",
+    "https://www.parana.pr.gov.br/Audio/Paranagua-completa-375-anos-neste-sabado-e-recebe-do-Estado-R-6-milhoes-em-obras-urbanas",
+    "https://www.parana.pr.gov.br/aen/Noticia/Festa-do-Rocio-celebra-padroeira-do-Parana-e-reforca-o-turismo-religioso-no-Estado"
+  ],
+  "legenda": "Paranaguá virou vila em 1648. A Província do Paraná só nasceu 205 anos depois. ⚓\n\nVocê sabia? O município mais antigo do Paraná começou numa ilha: entre 1550 e 1560, moradores de São Vicente e Cananeia se instalaram na Ilha da Cotinga. Depois vieram o ouro da Serra Negra, o bandeirante Gabriel de Lara, o pelourinho de 1646 e, em 29 de julho de 1648, a vila, com as primeiras eleições do território que hoje é o Paraná.\n\nE tem mais: o nome vem do tupi (\"grande mar redondo\", a baía), e foi de lá que saiu a devoção a Nossa Senhora do Rocio, padroeira do Paraná desde 1977.\n\nArrasta pro lado 👉 e salva pra contar na próxima viagem ao litoral.\n\nManda pra quem é parnanguara.\n\nE você, já foi a Paranaguá? Conta aqui de onde você é 👇",
+  "hashtags": [
+    "#historiadoparana",
+    "#paranagua",
+    "#litoraldoparana",
+    "#parnanguara",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Você sabia?",
+      "titulo": "A cidade que *veio antes* do Paraná",
+      "subtitulo": "Paranaguá virou vila em 1648, 205 anos antes da província. A história em 7 fatos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "Tudo começou *numa ilha*",
+      "texto": "Entre 1550 e 1560, moradores de São Vicente e Cananeia se instalaram na Ilha da Cotinga, com medo dos carijós. Só depois foram para a terra firme, na beira do rio que hoje se chama Itiberê."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "O ouro da *Serra Negra*",
+      "texto": "A descoberta de ouro na Serra Negra atraiu mais gente. Há quem diga que dali saíram, por volta de 1580, as primeiras amostras de ouro brasileiro mandadas para a Corte de Portugal."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "O bandeirante *Gabriel de Lara*",
+      "texto": "Por volta de 1640, o bandeirante Gabriel de Lara assumiu o governo militar do povoado. Em 1646, ergueu o pelourinho por conta própria, antes mesmo das ordens de Portugal."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "Vila em *29 de julho* de 1648",
+      "texto": "Com a vila, aconteceram ali as primeiras eleições do território que hoje é o Paraná. Por isso Paranaguá é o município mais antigo do estado."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "O *grande mar redondo*",
+      "texto": "O nome vem do tupi: “paraná”, grande rio ou mar, e “guá”, redondo. Ou seja, a própria baía. E quem nasce lá tem nome especial: parnanguara."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Vila em 1648, cidade *só em 1842*",
+      "texto": "Em 1711, a Coroa criou a Capitania de Nossa Senhora do Rosário de Paranaguá. O título de cidade veio bem depois, em 1842, por uma lei da Província de São Paulo."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "A casa da *padroeira*",
+      "texto": "A devoção a Nossa Senhora do Rocio nasceu em Paranaguá no século XVII. Em 1977, o Papa Paulo VI a proclamou padroeira do Paraná. A festa reúne cerca de 500 mil pessoas."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "Já foi a Paranaguá?",
+      "pergunta": "de qual cidade você é?"
+    }
+  ]
+}
