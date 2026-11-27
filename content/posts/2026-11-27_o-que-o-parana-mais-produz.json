@@ -1,0 +1,77 @@
+{
+  "slug": "2026-11-27_o-que-o-parana-mais-produz",
+  "data_publicacao": "2026-11-27T18:30:00-03:00",
+  "editoria": "negocios",
+  "formato": "carrossel",
+  "status": "revisao",
+  "objetivo": "salvamentos (ranking do agro com números oficiais) e compartilhamentos ('manda pra quem é de Toledo, Castro, Arapoti')",
+  "fontes": [
+    "https://www.parana.pr.gov.br/aen/Noticia/Campo-mais-forte-Valor-Bruto-de-Producao-da-agropecuaria-do-Parana-dobra-em-seis-anos",
+    "https://www.parana.pr.gov.br/aen/Noticia/Parana-chega-aos-melhores-resultados-da-historia-em-atividades-da-agropecuaria",
+    "https://www.parana.pr.gov.br/Audio/Parana-bate-recorde-na-producao-de-frangos-suinos-bovinos-leite-e-ovos-em-2025"
+  ],
+  "notas_apuracao": "VBP 2025 = dados preliminares do Deral/Seab (AEN, 29/06/2026). Abates 2025 = IBGE (AEN, 18/03/2026). Rebanhos, mel e cidades = IBGE PPM 2024 (AEN, 19/09/2025). Fatia nacional do mel não usada: AEN traz 'quase 18%' (PPM 2024) e outra matéria cita 14,6% (ano diferente) — só afirmamos 'maior produtor do país'.",
+  "legenda": "R$ 212,6 bilhões. Foi quanto o campo do Paraná produziu em 2025, segundo dados preliminares do Deral. Mais que o dobro de 2019. 🌾\n\nMas o que o Paraná mais produz? A soja lidera em valor, o frango vem logo atrás, e o estado é o maior produtor de frango e de mel do Brasil. Toledo tem o maior rebanho de porcos do país, e Castro e Carambeí estão no topo do leite.\n\nArrasta pro lado e vê o ranking do agro paranaense 👉\n\nSalva pra ter os números à mão e manda pra quem trabalha no campo.\n\nO que a sua cidade produz de melhor? Conta aqui 👇",
+  "hashtags": [
+    "#agroparanaense",
+    "#agronegocio",
+    "#negociosdoparana",
+    "#parana",
+    "#falaparana"
+  ],
+  "slides": [
+    {
+      "tipo": "capa",
+      "etiqueta": "Negócios",
+      "titulo": "O que o Paraná *mais produz*?",
+      "subtitulo": "O ranking do campo paranaense, com números oficiais."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "01",
+      "ponto": "*R$ 212,6 bilhões*",
+      "texto": "Foi o valor da produção do campo paranaense em 2025, segundo dados preliminares do Deral. Em 2019, eram R$ 98 bilhões. Ou seja: mais que dobrou em seis anos."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "02",
+      "ponto": "Soja em *1º lugar*",
+      "texto": "A soja é a principal atividade do agro paranaense: R$ 42,3 bilhões em 2025. Logo atrás vem o milho, que somando as duas safras rendeu R$ 19,1 bilhões."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "03",
+      "ponto": "Capital do *frango*",
+      "texto": "O frango de corte é a segunda atividade do estado, com R$ 35,5 bilhões. E o Paraná é o maior produtor do Brasil: 34,4% dos abates do país em 2025, segundo o IBGE."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "04",
+      "ponto": "Porco de *Toledo*",
+      "texto": "O Paraná é o 2º do país em suínos, com 21,2% dos abates em 2025. E Toledo, no Oeste, tem o maior rebanho de porcos do Brasil: 576 mil cabeças."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "05",
+      "ponto": "Leite dos *Campos Gerais*",
+      "texto": "O Paraná é o 2º maior produtor de leite do Brasil, atrás só de Minas Gerais. Castro e Carambeí são as cidades que mais produzem leite no país, segundo o IBGE."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "06",
+      "ponto": "Doce como *mel*",
+      "texto": "O Paraná também é o maior produtor de mel do Brasil. Foram 9,8 mil toneladas em 2024, recorde. Arapoti é a 2ª cidade do país e Ortigueira, a 5ª."
+    },
+    {
+      "tipo": "conteudo",
+      "numero": "07",
+      "ponto": "Mais bicho que *lavoura*",
+      "texto": "Pode parecer estranho, mas a pecuária já vale mais que a agricultura no Paraná: R$ 111,7 bilhões contra R$ 91,2 bilhões em 2025. Já são quatro anos seguidos assim."
+    },
+    {
+      "tipo": "fechamento",
+      "titulo": "E na sua cidade?",
+      "pergunta": "o que a sua cidade produz de melhor?"
+    }
+  ]
+}

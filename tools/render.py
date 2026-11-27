@@ -67,7 +67,8 @@ def draw_t(d, t, font, x, y, color, track=0):
 def tokens(texto):
     """'abc *def ghi*' -> [('abc',False),('def',True),('ghi',True)]"""
     out, dest = [], False
-    for w in texto.split():
+    for w in texto.split(" ") if "\u00a0" in texto else texto.split():
+        if not w.strip(): continue
         ini = w.startswith("*"); core = w.rstrip(".,:;!?…")
         fim = core.endswith("*") and len(core) > 1
         w2 = w.replace("*", "")

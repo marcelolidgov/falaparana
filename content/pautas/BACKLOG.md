@@ -35,7 +35,7 @@ Regras: verificar fonte antes de escrever; marcar `[x]` quando virar JSON em `co
 
 ## Negócios — aprovação
 - [x] Cooperativas: por que o Paraná é líder → `2026-11-13_cooperativas-do-parana.json` (status revisao, aguardando o Marcelão)
-- [ ] O Paraná no agro: o que o estado mais produz (IBGE/IPARDES)
+- [x] O Paraná no agro: o que o estado mais produz → `2026-11-27_o-que-o-parana-mais-produz.json` (status revisao, aguardando o Marcelão)
 
 ## Notícia / política — aprovação
 - [x] Notícia da semana (16/11): exportações de jan–out/2026 → `2026-11-16_exportacoes-do-parana.json` (status revisao, aguardando o Marcelão)
